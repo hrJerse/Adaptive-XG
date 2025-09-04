@@ -1,32 +1,27 @@
-# Adaptive-XG
+# Adaptive-(Chi-Gravity)XG Project
 
-**Adaptive-XG: A Selective Extension of General Relativity**  
-Author: **Hamidreza Jerse** · [ORCID: 0009-0007-9459-7432](https://orcid.org/0009-0007-9459-7432)  
+This repository contains all papers, data, and reproducibility material for the Adaptive-XG research program.
 
----
-## 📄 Publications
+## 📑 Papers
+- **Paper I (2025):** Galactic rotation curves and lensing  
+  - Zenodo: https://doi.org/10.5281/zenodo.17042264  
+  - Figshare: https://doi.org/10.6084/m9.figshare.30047671  
 
-- **Zenodo (Preprint)**: [10.5281/zenodo.17042264](https://doi.org/10.5281/zenodo.17042264)  
-- **Figshare (Preprint)**: [10.6084/m9.figshare.30047671.v1](https://doi.org/10.6084/m9.figshare.30047671.v1)  
----
-## 📊 Repository Contents
+- **Paper II (2025):** Master Equation, Horizons, Early Galaxies, and New Tests  
+  - Zenodo: https://doi.org/10.5281/zenodo.17058164  
+  - Figshare: https://doi.org/10.6084/m9.figshare.30058042  
 
-- `/paper` → Main manuscript (PDF whitepaper and preprint)  
-- `/data` → CSV datasets (rotation curves, lensing, weak lensing)  
-- `/notes` → Supplementary notes and figures  
----
-## 📜 License
-This work is licensed under a **Creative Commons Attribution 4.0 International License (CC-BY 4.0)**.  
-You are free to share and adapt the material for any purpose, provided that proper citation is given.
+Future papers will be added in `/PaperIII/`, `/PaperIV/`, etc.
 
-- Full license text: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
----
-## 📌 How to Cite
+## 📂 Repository Structure
+- `/PaperI/` — PDF + supplementary data and figures for Paper I  
+- `/PaperII/` — PDF + supplementary data and figures for Paper II  
+- `/data/` — Shared observational datasets (SPARC, pulsars, fσ8)  
 
-If you use Adaptive-XG in your research, please cite:
+## 🔗 Related Resources
+- GitHub repository: https://github.com/hrJerse/Adaptive-XG  
+- Zenodo record (Paper II): https://doi.org/10.5281/zenodo.17058164  
+- Figshare record (Paper II): https://doi.org/10.6084/m9.figshare.30058042
 
-**APA Style:**
-Jerse, H. (2025). Adaptive-XG: A Selective Extension of General Relativity. Zenodo. https://doi.org/10.5281/zenodo.17042264
-
-**Figshare DOI:**
-Jerse, H. (2025). Adaptive-XG: A Selective Extension of General Relativity. figshare. Preprint. https://doi.org/10.6084/m9.figshare.30047671.v1
+## License
+Released under CC-BY 4.0.
