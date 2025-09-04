@@ -16,7 +16,6 @@ Future papers will be added in `/PaperIII/`, `/PaperIV/`, etc.
 ## 📂 Repository Structure
 - `/PaperI/` — PDF + supplementary data and figures for Paper I  
 - `/PaperII/` — PDF + supplementary data and figures for Paper II  
-- `/data/` — Shared observational datasets (SPARC, pulsars, fσ8)  
 
 ## 🔗 Related Resources
 - GitHub repository: https://github.com/hrJerse/Adaptive-XG  
